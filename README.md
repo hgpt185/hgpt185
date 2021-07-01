@@ -13,11 +13,19 @@
 - 💬: Ask me about Competitive, Flutter appdev and Machine Learning algorithms. 📊📈🤖🧠
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I binge watch animes.
-
-### Spotify Playing 🎧 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/wpms4u1gg2flefzlf16cjp49d)
   
+<Br>
 <hr>
 <Br>
+
+### Spotify Playing 🎧 
+<Br>
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/wpms4u1gg2flefzlf16cjp49d)
+  
+<Br>
+<hr>
+<Br>
+  
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
@@ -31,9 +39,9 @@
 <Br>
   
 |![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
+<!-- |---|---|---|---|---|
 |![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
+   -->
   
 <Br>
 <hr>
