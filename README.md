@@ -30,14 +30,12 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
+|![](https://img.shields.io/badge/App%20Development-blue?style=for-the-badge)|![](https://img.shields.io/badge/AD-Flutter-blue?style=for-the-badge)|![](https://img.shields.io/badge/AD-Native-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|---|---|---|---|---|
 |![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/Languages-pink?style=for-the-badge)|![](https://img.shields.io/badge/L-C++-pink?style=for-the-badge)|![](https://img.shields.io/badge/L-C-pink?style=for-the-badge)|![](https://img.shields.io/badge/L-pyhton-pink?style=for-the-badge)|![](https://img.shields.io/badge/L-Java-pink?style=for-the-badge)|
 
-|![](https://img.shields.io/badge/App%20Development-blue?style=for-the-badge)|![](https://img.shields.io/badge/AD-Flutter-blue?style=for-the-badge)|![](https://img.shields.io/badge/AD-Native-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-
-  
-  
 <Br>
 <hr>
 <Br>
