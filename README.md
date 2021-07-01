@@ -76,7 +76,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=hgpt185&show_icons=true&theme=merko)](https://github.com/hgpt185/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/hgpt185/github-readme-stats)
+[![Hemesh's github stats](https://github-readme-stats.vercel.app/api?username=hgpt185&show_icons=true&theme=merko)](https://github.com/hgpt185/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgpt185&layout=compact&theme=merko)](https://github.com/hgpt185/github-readme-stats)
 
  
 <Br>
