@@ -47,9 +47,5 @@
     <img src="https://img.shields.io/badge/GitHub-hgpt185-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-## 🎭 A Little Fun at the End!
-![Joke](https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg)
-
 ---
 ### Thanks for stopping by! 🚀
