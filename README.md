@@ -5,45 +5,46 @@
 <h1 align="center">Hey there, I'm <a href="https://github.com/hgpt185">Hemesh Gupta</a>! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
 
 <p align="center">
-  💻 Software Engineer @ <b>Salesforce</b> • 🎓 CS Grad @ <b>BITS Pilani</b> <br/>
+  💻 Software Engineer @ <b>Salesforce</b> • 🎓 CS Grad @ <b>BITS Pilani</b><br/>
   🔍 Exploring AI, Cloud & Scalable Systems • 🚀 Aspiring to double impact & salary!
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🧠 Passionate about **AI, Machine Learning, and System Design**
-- 🔨 Currently building robust, scalable software @ Salesforce
-- ☁️ Diving deeper into **Cloud Computing** and **Distributed Systems**
-- 🤝 Always open to **collaborations** in **AI, Web Dev, or Backend Engineering**
-- 📈 Striving for continuous growth – in **skills, scale, and impact**
+
+- 🧠 Passionate about **AI, Backend Engineering**, and **System Design**
+- 🔨 Building scalable, production-grade services @ Salesforce (Tableau)
+- ☁️ Diving deeper into **Cloud Computing**, **Spring Boot**, and **Distributed Systems**
+- 🤝 Open to **collaborations** in **Web Dev, AI**, and **System Engineering**
+- 📈 Always leveling up through hands-on projects, internships, and continuous learning
 
 ---
 
 ## 🛠 Tech Stack
 
-| Languages | Frameworks & Tools | Databases | Cloud & DevOps |
-|----------|-------------------|-----------|----------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?style=flat&logo=githubactions&logoColor=white) |
+| **Languages**      | **Frameworks & Libraries**        | **Cloud & DevOps**             | **Tools & Platforms**         |
+|--------------------|------------------------------------|--------------------------------|-------------------------------|
+| Python, Java, C++, Dart, JavaScript | Spring Boot, Node.js, React.js, Flutter | AWS, Docker, Kubernetes, CI/CD | MongoDB, MySQL, Firebase, Git/GitHub |
 
 ---
 
-## 🏆 Certifications
-- 🎓 [Deep Learning Specialization – Coursera](https://www.coursera.org/specializations/deep-learning)
-- ☁️ [Google Associate Cloud Engineer – Google Cloud](https://cloud.google.com/certification/cloud-engineer)
+## 📂 Featured Projects
 
----
+> Real-world, high-impact development experiences:
 
-## 📂 Projects
+- 🧠 **Smart Retail Inventory System**  
+  AI-powered stock prediction and management system for medicine stores  
+  <sub><i>Domain-aligned innovation with real-life use case</i></sub>
 
-> Here are a few things I've built and loved working on:
+- 📱 **Flutter Expense Tracker**  
+  Clean and efficient expense management mobile app built with Flutter & Firebase
 
-- 🔍 **Smart Retail Inventory System** – AI-powered inventory & demand prediction for medicine stores *(domain-specific optimization project)*  
-- 💸 **Flutter Expense Tracker** – Sleek, intuitive personal finance app built with Flutter  
-- 📊 **Web Scraper for Data Analysis** – Automated web scraper with large-scale data preprocessing for insights  
-- 🧠 **Face Emotion Detection** – Deep learning project using CNNs and transfer learning on real-time video streams  
+- 🧾 **Web Scraper for Data Analysis**  
+  Automation tool for scalable data extraction and processing from websites
 
-> _More projects coming soon — constantly building!_
+- 📝 **Google Docs Clone**  
+  Built real-time collaborative document editing using React.js, Quill.js, Socket.io & MongoDB
 
 ---
 
@@ -72,4 +73,4 @@
 
 ---
 
-<p align="center">Thanks for visiting! 🌟 Keep learning, keep building. 🚀</p>
+<p align="center">Thanks for stopping by! 🚀 Always open to learning, building, and innovating 🌟</p>
