@@ -1,52 +1,75 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
-<hr>
-<h1 align="center">Hey there, I'm <a href="https://github.com/hgpt185">Hemesh Gupta</a>! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
+<h1 align="center">Hey there, I'm <a href="https://github.com/hgpt185">Hemesh Gupta</a>! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
+
+<p align="center">
+  💻 Software Engineer @ <b>Salesforce</b> • 🎓 CS Grad @ <b>BITS Pilani</b> <br/>
+  🔍 Exploring AI, Cloud & Scalable Systems • 🚀 Aspiring to double impact & salary!
+</p>
+
+---
 
 ## 🚀 About Me
-- 🎓 **Software Engineer at Salesforce** | **BITS Pilani CS Grad**
-- 🏗️ Building scalable & efficient software solutions
-- 💡 Passionate about **AI, Machine Learning, and Backend Development**
-- 🌱 Currently exploring **Cloud Computing, System Design, and AI/ML innovations**
-- 🤝 Open to collaborations in **AI, Web Dev, and Backend Engineering**
-- 🎯 Always learning, always improving!
+- 🧠 Passionate about **AI, Machine Learning, and System Design**
+- 🔨 Currently building robust, scalable software @ Salesforce
+- ☁️ Diving deeper into **Cloud Computing** and **Distributed Systems**
+- 🤝 Always open to **collaborations** in **AI, Web Dev, or Backend Engineering**
+- 📈 Striving for continuous growth – in **skills, scale, and impact**
 
-## 🔥 Tech Stack
-- **Programming Languages:** Python, Java, JavaScript, Dart
-- **Frameworks & Tools:** TensorFlow, PyTorch, Flutter, React, Node.js
-- **Databases:** PostgreSQL, Firebase, MongoDB
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
+---
+
+## 🛠 Tech Stack
+
+| Languages | Frameworks & Tools | Databases | Cloud & DevOps |
+|----------|-------------------|-----------|----------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?style=flat&logo=githubactions&logoColor=white) |
+
+---
 
 ## 🏆 Certifications
-- **Deep Learning Specialization – Coursera**
-- **Google Associate Cloud Engineer**
+- 🎓 [Deep Learning Specialization – Coursera](https://www.coursera.org/specializations/deep-learning)
+- ☁️ [Google Associate Cloud Engineer – Google Cloud](https://cloud.google.com/certification/cloud-engineer)
+
+---
 
 ## 📂 Projects
-🚀 **[Smart Retail Inventory System](#)** - AI-powered stock management for medicine stores.
 
-📱 **[Flutter Expense Tracker](#)** - A beautiful and efficient expense management app.
+> Here are a few things I've built and loved working on:
 
-🛠 **[Web Scraper for Data Analysis](#)** - Automates large-scale web data extraction.
+- 🔍 **Smart Retail Inventory System** – AI-powered inventory & demand prediction for medicine stores *(domain-specific optimization project)*  
+- 💸 **Flutter Expense Tracker** – Sleek, intuitive personal finance app built with Flutter  
+- 📊 **Web Scraper for Data Analysis** – Automated web scraper with large-scale data preprocessing for insights  
+- 🧠 **Face Emotion Detection** – Deep learning project using CNNs and transfer learning on real-time video streams  
 
-## 📊 GitHub Stats
-[![Hemesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgpt185&show_icons=true&theme=merko)](https://github.com/hgpt185/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgpt185&layout=compact&theme=merko)](https://github.com/hgpt185/github-readme-stats)
+> _More projects coming soon — constantly building!_
 
-## 📬 Get in Touch!
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/hgpt185" target="blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=hgpt185&show_icons=true&theme=tokyonight&hide_title=false" height="165"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgpt185&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
+</p>
+
+---
+
+## 📬 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hgpt185/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hemesh%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="mailto:hgpt185@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-hgpt185@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://github.com/hgpt185" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-hgpt185-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-hgpt185-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
-### Thanks for stopping by! 🚀
+
+<p align="center">Thanks for visiting! 🌟 Keep learning, keep building. 🚀</p>
