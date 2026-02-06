@@ -63,7 +63,7 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hgpt185/" target="_blank">
+  <a href="https://www.linkedin.com/in/hemeshgupta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hemesh%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
