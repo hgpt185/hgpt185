@@ -2,75 +2,82 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 
-<h1 align="center">Hey there, I'm <a href="https://github.com/hgpt185">Hemesh Gupta</a>! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
+<h1 align="center">
+  Hey there, I'm <a href="https://github.com/hgpt185">Hemesh Gupta</a>! 
+  <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="45px"/>
+</h1>
 
 <p align="center">
-  💻 Software Engineer @ <b>Salesforce</b> • 🎓 CS Grad @ <b>BITS Pilani</b><br/>
-  🔍 Exploring AI, Cloud & Scalable Systems • 🚀 Aspiring to double impact & salary!
+  💻 Software Engineer @ <b>Salesforce</b> • 🎓 Computer Science @ <b>BITS Pilani</b><br/>
+  🔍 Backend, Cloud & Scalable Systems • 🚀 Building reliable, high-impact software
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 Passionate about **AI, Backend Engineering**, and **System Design**
-- 🔨 Building scalable, production-grade services @ Salesforce (Tableau)
-- ☁️ Diving deeper into **Cloud Computing**, **Spring Boot**, and **Distributed Systems**
-- 🤝 Open to **collaborations** in **Web Dev, AI**, and **System Engineering**
-- 📈 Always leveling up through hands-on projects, internships, and continuous learning
+- 🧠 Software Engineer with a strong foundation in **Backend Engineering, System Design, and Distributed Systems**
+- 🔨 Working on **production-grade, scalable services** at Salesforce (Tableau)
+- ☁️ Actively deepening expertise in **Cloud Computing, Spring Boot, and Microservices**
+- 🤝 Open to **collaborations** in **Backend, Web, and AI-driven systems**
+- 📈 Focused on writing **clean, maintainable code** and growing through real-world engineering challenges
 
 ---
 
 ## 🛠 Tech Stack
 
-| **Languages**      | **Frameworks & Libraries**        | **Cloud & DevOps**             | **Tools & Platforms**         |
-|--------------------|------------------------------------|--------------------------------|-------------------------------|
-| Python, Java, C++, Dart, JavaScript | Spring Boot, Node.js, React.js, Flutter | AWS, Docker, Kubernetes, CI/CD | MongoDB, MySQL, Firebase, Git/GitHub |
+| **Languages** | **Frameworks & Libraries** | **Cloud & DevOps** | **Databases & Tools** |
+|--------------|----------------------------|--------------------|-----------------------|
+| Python, Java, C++, JavaScript, Dart | Spring Boot, Node.js, React.js, Flutter | AWS, Docker, Kubernetes, CI/CD | MongoDB, MySQL, Firebase, Git/GitHub |
 
 ---
 
 ## 📂 Featured Projects
 
-> Real-world, high-impact development experiences:
+> Selected projects demonstrating real-world problem solving and system design:
 
 - 🧠 **Smart Retail Inventory System**  
-  AI-powered stock prediction and management system for medicine stores  
-  <sub><i>Domain-aligned innovation with real-life use case</i></sub>
+  AI-powered stock prediction and inventory management system for medicine stores  
+  <sub><i>Built around a real-world business problem</i></sub>
 
 - 📱 **Flutter Expense Tracker**  
-  Clean and efficient expense management mobile app built with Flutter & Firebase
+  Mobile application for expense tracking using Flutter and Firebase
 
 - 🧾 **Web Scraper for Data Analysis**  
-  Automation tool for scalable data extraction and processing from websites
+  Scalable automation tool for structured data extraction and processing
 
-- 📝 **Google Docs Clone**  
-  Built real-time collaborative document editing using React.js, Quill.js, Socket.io & MongoDB
+- 📝 **Real-time Document Editor (Google Docs Clone)**  
+  Implemented collaborative editing using React.js, Socket.io, Quill.js, and MongoDB
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hgpt185&show_icons=true&theme=tokyonight&hide_title=false" height="165"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=hgpt185&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgpt185&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
 </p>
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hgpt185/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hemesh%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:hgpt185@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-hgpt185@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/hgpt185" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-hgpt185-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/hgpt185/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hemesh%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:hgpt185@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hgpt185@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/hgpt185" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-hgpt185-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">Thanks for stopping by! 🚀 Always open to learning, building, and innovating 🌟</p>
+<p align="center">
+  Thanks for stopping by! Always open to learning, building, and meaningful engineering conversations 🚀
+</p>
