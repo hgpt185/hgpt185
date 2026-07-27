@@ -79,6 +79,44 @@ class Hemesh:
 
 ---
 
+### 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hgpt185/hgpt185/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hgpt185/hgpt185/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hgpt185/hgpt185/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 💡 Quote & Joke of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote of the day" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false" alt="Random programming joke" />
+</p>
+
+---
+
+### 🎮 Guess My Lucky Number
+
+I'm thinking of a number between **1 and 5**. Click your guess — the link opens a pre-filled issue that reveals whether you got it right. 🍀
+
+<p align="center">
+  <a href="https://github.com/hgpt185/hgpt185/issues/new?title=My+guess+is+1&body=Was+1+the+lucky+number%3F+%F0%9F%A4%9E"><img src="https://img.shields.io/badge/Guess-1-38BDF8?style=for-the-badge" alt="Guess 1"/></a>
+  <a href="https://github.com/hgpt185/hgpt185/issues/new?title=My+guess+is+2&body=Was+2+the+lucky+number%3F+%F0%9F%A4%9E"><img src="https://img.shields.io/badge/Guess-2-6DB33F?style=for-the-badge" alt="Guess 2"/></a>
+  <a href="https://github.com/hgpt185/hgpt185/issues/new?title=My+guess+is+3&body=Was+3+the+lucky+number%3F+%F0%9F%A4%9E"><img src="https://img.shields.io/badge/Guess-3-F7DF1E?style=for-the-badge" alt="Guess 3"/></a>
+  <a href="https://github.com/hgpt185/hgpt185/issues/new?title=My+guess+is+4&body=Was+4+the+lucky+number%3F+%F0%9F%A4%9E"><img src="https://img.shields.io/badge/Guess-4-FFCA28?style=for-the-badge" alt="Guess 4"/></a>
+  <a href="https://github.com/hgpt185/hgpt185/issues/new?title=My+guess+is+5&body=Was+5+the+lucky+number%3F+%F0%9F%A4%9E"><img src="https://img.shields.io/badge/Guess-5-D14836?style=for-the-badge" alt="Guess 5"/></a>
+</p>
+
+---
+
 ### 🤝 Let's Connect
 
 <p align="center">
