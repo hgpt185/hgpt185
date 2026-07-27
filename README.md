@@ -79,23 +79,6 @@ class Hemesh:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hgpt185&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgpt185&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=hgpt185&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hgpt185&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
