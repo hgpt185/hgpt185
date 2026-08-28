@@ -91,18 +91,6 @@ class Hemesh:
 
 ---
 
-### 💡 Quote & Joke of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote of the day" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false" alt="Random programming joke" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
