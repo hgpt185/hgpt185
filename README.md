@@ -68,16 +68,6 @@ class Hemesh:
 
 ---
 
-### 📂 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🧠 **Smart Retail Inventory System** | AI-powered stock prediction and inventory management for medicine stores, built around a real business problem | Python, ML, REST |
-| 📝 **Real-time Document Editor** | A Google Docs clone with live collaborative editing and conflict-free sync | React, Socket.io, Quill.js, MongoDB |
-| 🧾 **Web Scraper for Data Analysis** | Scalable automation pipeline for structured data extraction and processing | Python, automation |
-| 📱 **Flutter Expense Tracker** | Cross-platform mobile app for tracking personal expenses in real time | Flutter, Firebase |
-
----
 
 ### 🐍 Watch My Contributions Get Eaten
 
