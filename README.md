@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/hemeshgupta/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hgpt185@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/hgpt185"><img src="https://komarev.com/ghpvc/?username=hgpt185&label=Profile%20views&color=38BDF8&style=flat-square" alt="Profile views"/></a>
+  <a href="https://buymeacoffee.com/hemeshgupta"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 </p>
 
 ---
@@ -65,6 +66,21 @@ class Hemesh:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://buymeacoffee.com/hemeshgupta">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me a Coffee" width="160" />
+  </a>
+</p>
+
+<p align="center">
+  If anything I've built has been useful to you, a coffee is the sweetest way to say thanks —<br/>
+  it keeps the late-night commits and the caffeinated debugging sessions going. ☕
+</p>
 
 ---
 
